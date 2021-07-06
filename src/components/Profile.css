@@ -1,0 +1,11 @@
+.profile{
+    width: 764px;
+    margin: 0 auto;
+    border: 1px solid rgb(192, 192, 192);
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+h1{
+    color:rgb(46, 46, 46)
+}
